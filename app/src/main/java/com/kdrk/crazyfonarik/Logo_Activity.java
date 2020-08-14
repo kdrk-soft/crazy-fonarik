@@ -21,7 +21,7 @@ public class Logo_Activity extends Activity {
         logoImage = findViewById(R.id.imageView3);
         logoImage.startAnimation(logoAnim);
         startLogo();
-//nf
+//n
 
 
 
