@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fou Torche</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">FLAMBÉE ON</string>
+    <string name="stOff">FLAMBÉE OFF</string>
+    <string name="content">BONNE HUMEUR</string>
+</resources>

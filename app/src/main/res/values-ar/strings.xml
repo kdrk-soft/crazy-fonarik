@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">مجنون الفانوس</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">فلاش ON</string>
+    <string name="stOff">فلاش OFF</string>
+    <string name="content">تمتع بمزاج جيد</string>
+</resources>

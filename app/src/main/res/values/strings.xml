@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crazy Фонарик</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">ВСПЫШКА ON</string>
+    <string name="stOff">ВСПЫШКА OFF</string>
+    <string name="content">ХОРОШЕГО ВАМ НАСТРОЕНИЯ</string>
+</resources>

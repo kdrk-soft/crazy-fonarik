@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Çılgın El feneri</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">FLAŞ ON</string>
+    <string name="stOff">FLAŞ OFF</string>
+    <string name="content">İYİ BİR RUH HALİ</string>
+</resources>

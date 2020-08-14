@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">पागल लालटेन</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">फ़्लैश ON</string>
+    <string name="stOff">फ़्लैश OFF</string>
+    <string name="content">एक अच्छे मूड है</string>
+</resources>

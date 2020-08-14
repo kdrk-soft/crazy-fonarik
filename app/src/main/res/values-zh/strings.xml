@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">瘋狂手電筒 灯笼</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">闪光 ON</string>
+    <string name="stOff">闪光 OFF</string>
+    <string name="content">給你好心情</string>
+</resources>

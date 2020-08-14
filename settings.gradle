@@ -1,0 +1,2 @@
+rootProject.name='CrazyFonarik'
+include ':app'

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loco Linterna</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">BROTE ON</string>
+    <string name="stOff">BROTE OFF</string>
+    <string name="content">BUEN HUMOR</string>
+</resources>

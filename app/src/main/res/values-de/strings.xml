@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Verrückt Taschenlampe</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">BLITZ ON</string>
+    <string name="stOff">BLITZ OFF</string>
+    <string name="content">GUTE LAUNE</string>
+</resources>

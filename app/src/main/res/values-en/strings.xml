@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crazy Flashlight</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">FLASH ON</string>
+    <string name="stOff">FLASH OFF</string>
+    <string name="content">HAVE A GOOD MOOD</string>
+</resources>

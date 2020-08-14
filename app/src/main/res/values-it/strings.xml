@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pazzo Lanternino</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">FLASH ON</string>
+    <string name="stOff">FLASH OFF</string>
+    <string name="content">BUON UMORE</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crazy Lanterna</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">PISCA ON</string>
+    <string name="stOff">PISCA OFF</string>
+    <string name="content">O BOM HUMOR</string>
+</resources>

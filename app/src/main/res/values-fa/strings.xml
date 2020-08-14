@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">دیوانه فانوس</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">فلش ON</string>
+    <string name="stOff">فلش OFF</string>
+    <string name="content">باید یک خلق و خوی خوب</string>
+</resources>

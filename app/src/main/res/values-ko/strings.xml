@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">미친 손전등</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">플래시 ON</string>
+    <string name="stOff">플래시 OFF</string>
+    <string name="content">좋은 기분이</string>
+</resources>

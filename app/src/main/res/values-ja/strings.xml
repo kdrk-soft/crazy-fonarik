@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">クレイジー ランタン</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="stOn">フラッシュ ON</string>
+    <string name="stOff">フラッシュ OFF</string>
+    <string name="content">良い気分を持っている</string>
+</resources>
